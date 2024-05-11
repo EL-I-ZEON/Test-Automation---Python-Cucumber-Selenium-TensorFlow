@@ -1,4 +1,6 @@
 import unittest
+
+import behave
 from selenium import webdriver
 from features.step_definitions.test_steps import *
 
